@@ -1,1 +1,1 @@
-echo "from github - update"
+echo "from gitea"
